@@ -56,7 +56,7 @@ TOOLPATH = /usr
 #  in order to initialize the chip. We could write our own and that could be
 #  fun, but this makefile will use the ones that come with Teensyduino for
 #  efficiency's sake.
-TEENSY3X_BASEPATH = $(HOME)/arduino-1.0.5/hardware/teensy/cores/teensy3
+TEENSY3X_BASEPATH = $(HOME)/Downloads/arduino-1.0.5/hardware/teensy/cores/teensy3
 
 #
 #  Select the target type.  This is typically arm-none-eabi.
